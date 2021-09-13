@@ -1,4 +1,4 @@
-# ESP QRcode
+# QRcodeDisplay
 
 This is a rework of the library ESP QRcode (https://github.com/yoprogramo/ESP_QRcode) to make it more flexible and be capable to include more
 displays sharing the same base code.  
@@ -18,7 +18,13 @@ The following examples has been generated using different subclasses:
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/qrcode.JPG?raw=true)
 
 ## TFT example
+
+QRcode_ST7735: https://github.com/yoprogramo/QRcode_ST7735
+
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/tftqr.jpg?raw=true)
 
 ## EINK Example
+
+QRcodeEink: https://github.com/yoprogramo/QRcodeEink
+
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/einkqr.jpg?raw=true)
