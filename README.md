@@ -11,7 +11,7 @@ Each subclass have its own repository with its own dependencies. This library ha
 The following examples has been generated using different subclasses:
 
 
-## Display example
+## OLED example
 
 * QRcodeOled: https://github.com/yoprogramo/QRcodeOled
 
