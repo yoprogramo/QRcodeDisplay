@@ -1,0 +1,24 @@
+{
+  "name": "QRcodeDisplay",
+  "version": "1.0.0",
+  "keywords": "qr code, ESP32, ESP8266, TFT display, OLED Display, E-ink display",
+  "description": "Base clase for generating QRCodes on ESP devices with different kind of displays",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/yoprogramo/QRcodeDisplay"
+  },
+  "authors":
+  [
+    {
+        "name": "Jose Antonio Espinosa",
+        "email": "yoprogramo@gmail.com",
+        "url": "https://yoprogramo.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32"
+  ]
+}
