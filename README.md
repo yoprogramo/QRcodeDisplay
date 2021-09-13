@@ -8,10 +8,13 @@ the hardware you have available.
 
 Each subclass have its own repository with its own dependencies. This library have not dependencies.
 
-The following examples has been generated usin different subclasses:
+The following examples has been generated using different subclasses:
 
 
 ## Display example
+
+* QRcodeOled: https://github.com/yoprogramo/QRcodeOled
+
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/qrcode.JPG?raw=true)
 
 ## TFT example
