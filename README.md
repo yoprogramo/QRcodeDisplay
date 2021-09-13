@@ -19,13 +19,13 @@ The following examples has been generated using different subclasses:
 
 ## TFT example
 
-QRcode_ST7735: https://github.com/yoprogramo/QRcode_ST7735
-QRcode_ST7789: https://github.com/yoprogramo/QRcode_ST7789
+* QRcode_ST7735: https://github.com/yoprogramo/QRcode_ST7735
+* QRcode_ST7789: https://github.com/yoprogramo/QRcode_ST7789
 
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/tftqr.jpg?raw=true)
 
 ## EINK Example
 
-QRcodeEink: https://github.com/yoprogramo/QRcodeEink
+* QRcodeEink: https://github.com/yoprogramo/QRcodeEink
 
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/einkqr.jpg?raw=true)
