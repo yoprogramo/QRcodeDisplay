@@ -12,10 +12,10 @@ The following examples has been generated usin different subclasses:
 
 
 ## Display example
-![qrcode](src/img/qrcode.JPG?raw=true)
+![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/qrcode.JPG?raw=true)
 
 ## TFT example
-![qrcode](src/img/tftqr.jpg?raw=true)
+![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/tftqr.jpg?raw=true)
 
 ## EINK Example
-![qrcode](src/img/einkqr.jpg?raw=true)
+![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/einkqr.jpg?raw=true)
