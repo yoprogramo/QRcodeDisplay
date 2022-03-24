@@ -1,7 +1,6 @@
 #ifndef ESPQRCODE_H
 #define ESPQRCODE_H
-/* ESP_QRcode. oled version
- * Import this .h when using some OLED display
+/* QRcodeDisplay - generic class
  */
 
 class QRcodeDisplay
