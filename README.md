@@ -6,7 +6,7 @@ displays sharing the same base code.
 You should use, at least one of the subclasses (this file will be populated with the references) to be able to display some QR, choose the corresponding to
 the hardware you have available.
 
-Each subclass have its own repository with its own dependencies. This library have not dependencies. Depending the dependencies you can choose one of the following approved subclasses, please visit the links to see the dependencies and hardware support:
+Each subclass have its own repository with its own dependencies. This library have not dependencies. Depending your hardware you can choose one of the following approved subclasses, please visit the links to see the dependencies and hardware support:
 
 * QRcodeOled: https://github.com/yoprogramo/QRcodeOled
 * QRcode_ST7735: https://github.com/yoprogramo/QRcode_ST7735
@@ -15,6 +15,9 @@ Each subclass have its own repository with its own dependencies. This library ha
 * QRcodeEink: https://github.com/yoprogramo/QRcodeEink
 
 If you do not find match for your display model feel free to contribute with a new subclasss or file an Issue here.
+
+## Breaking changes in version 2.0.0
+To avoid conflict with other libraries we have renamed the file qrcode.h to qrcodedisplay.h, so all the subclasses have to do the same change.
 
 ## Examples
 

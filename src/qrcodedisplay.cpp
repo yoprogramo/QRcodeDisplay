@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "qrcode.h"
+#include "qrcodedisplay.h"
 #include "qrencode.h"
 
 
