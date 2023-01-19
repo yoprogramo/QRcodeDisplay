@@ -16,6 +16,11 @@ Each subclass have its own repository with its own dependencies. This library ha
 
 If you do not find match for your display model feel free to contribute with a new subclasss or file an Issue here.
 
+# How to select a different QR version
+
+By default the QR version is 7 and ECC 1. If you wanna use a different version you have to define in your project QRCODEVERSION with a number from 1 to 10.
+We have chosen this conditional compilation to reduce the library footprint for small devices. Frame files courtesy of @slavendam.
+
 ## Breaking changes in version 2.0.0
 To avoid conflict with other libraries we have renamed the file qrcode.h to qrcodedisplay.h, so all the subclasses have to do the same change.
 
