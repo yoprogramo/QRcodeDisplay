@@ -13,6 +13,7 @@ Each subclass have its own repository with its own dependencies. This library ha
 * QRcode_ST7789: https://github.com/yoprogramo/QRcode_ST7789
 * QRcode_eSPI: https://github.com/yoprogramo/QRcode_eSPI
 * QRcodeEink: https://github.com/yoprogramo/QRcodeEink
+* QRcode_HUB75: https://github.com/yoprogramo/QRcode_HUB75
 
 If you do not find match for your display model feel free to contribute with a new subclasss or file an Issue here.
 
@@ -37,3 +38,7 @@ To avoid conflict with other libraries we have renamed the file qrcode.h to qrco
 ### EINK
 
 ![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/einkqr.jpg?raw=true)
+
+### HUB75
+
+![qrcode](https://github.com/yoprogramo/ESP_QRcode/blob/master/src/img/hub75qr.jpg?raw=true)

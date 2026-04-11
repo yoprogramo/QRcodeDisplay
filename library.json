@@ -1,7 +1,7 @@
 {
   "name": "QRcodeDisplay",
   "version": "2.1.0",
-  "keywords": "qr code, ESP32, ESP8266, TFT display, OLED Display, E-ink display",
+  "keywords": "qr code, ESP32, ESP8266, TFT display, OLED Display, E-ink display, HUB75",
   "description": "Base clase for generating QRCodes on ESP devices with different kind of displays",
   "repository":
   {
